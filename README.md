@@ -45,7 +45,7 @@ Trata-se de um script que roda no seu navegador web, procurando esse formato de 
 
 <p>
     <img width="350px" src="images/new.png">
-    <img width="350px" src="images/new1.png">
+    <img width="400px" src="images/new1.png">
 </p>
 
 # Instalação
