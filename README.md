@@ -19,15 +19,15 @@
 Em maio de 2020, com as aulas suspensas, a UnB introduziu um sistema diferente de gestão a seus alunos e professores: o [SIGAA](https://sig.unb.br/sigaa/), a exemplo de várias outras universidades pelo país. Uma funcionalidade nova que vem causando incômodo é o formato em que são informadas os horários das aulas. Ao invés de mostrarem horas e dias por extenso como era antes no MatriculaWeb, elas foram codificadas de um jeito difícil de entender à primeira vista.
 
 <p>
-    <img width="300px" src="images/manual1.png">
-    <img width="307px" src="images/manual2.png">
-    <img width="302px" src="images/manual3.png">
+    <img width="280px" src="images/manual1.png">
+    <img width="287px" src="images/manual2.png">
+    <img width="282px" src="images/manual3.png">
 </p>
 
 <p>
-    <img width="300px" src="images/manual4.png">
-    <img width="295px" src="images/manual5.png">
-    <img width="320px" src="images/manual6.png">
+    <img width="280px" src="images/manual4.png">
+    <img width="275px" src="images/manual5.png">
+    <img width="300px" src="images/manual6.png">
 </p>
 
 Certamente há motivos técnicos para se adotar uma representação assim. No entanto, apresentar na tela dessa forma causa estranheza e, mesmo que você não demore tanto para se acostumar, ou decorar o tutorial acima, ainda vai gastar algum tempo fazendo as contas na cabeça quando se der de frente com esse código, especialmente quando as aulas retornarem ou no período de matrículas.
@@ -44,8 +44,8 @@ Trata-se de um script que roda no seu navegador web, procurando esse formato de 
 ## Depois:
 
 <p>
-    <img width="450px" src="images/new.png">
-    <img width="450px" src="images/new1.png">
+    <img width="430px" src="images/new.png">
+    <img width="430px" src="images/new1.png">
 </p>
 
 # Instalação
