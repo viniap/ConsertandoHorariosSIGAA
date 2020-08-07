@@ -1,0 +1,58 @@
+#turmas-portal .timetable {
+    border-collapse: separate !important;
+    border-spacing: 1px !important;
+    border: 2px solid #dedfe3 !important;
+    table-layout: fixed !important;
+}
+
+#turmas-portal .table-body {
+    box-sizing: border-box !important;
+}
+
+#turmas-portal .table-row {
+    height: 50px !important;
+}
+
+#turmas-portal .table-header {
+    border: 1px solid #CCCCCC !important;
+    background-color: #DEDFE3 !important;
+    text-align: center !important;
+    padding: 0 !important;
+    height: 30px !important;
+}
+
+#turmas-portal .table-header:nth-child(1){width: 10%;}
+#turmas-portal .table-header:nth-child(2){width: 15%;}
+#turmas-portal .table-header:nth-child(3){width: 15%;}
+#turmas-portal .table-header:nth-child(4){width: 15%;}
+#turmas-portal .table-header:nth-child(5){width: 15%;}
+#turmas-portal .table-header:nth-child(6){width: 15%;}
+#turmas-portal .table-header:nth-child(7){width: 15%;}
+
+#turmas-portal .table-data {
+    /*display: none;*/
+    height: 50px !important;
+    border: 1px solid #CCCCCC !important;
+}
+
+#turmas-portal .table-data.h {
+    display: table-cell;
+    font-size: 0.6rem !important;
+    border: 1px solid #CCCCCC !important;
+    background-color: #ececec !important;
+    text-align: center !important;
+    font-weight: bold !important;
+    /*width: 10% !important;*/
+}
+
+#turmas-portal .table-data.d {
+    display: table-cell;
+    /*width: 15% !important;*/
+    font-size: 0.5rem !important;
+    text-align: center !important;
+    background-color: white;
+}
+
+#turmas-portal .remove {
+    display: none;
+}
